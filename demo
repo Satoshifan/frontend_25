@@ -1,0 +1,53 @@
+ <table>
+        <tr>
+            <td>Username</td>
+            <td><input type="text"></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="password"></td>
+        </tr>
+         <tr>
+            <td>Password</td>
+            <td><button>Submit</button></td>
+        </tr>
+    </table>
+    <label for="Username">Username</label>
+    <input type="text"><br>
+    <label for="Password">Password</label>
+    <input type="password"><br>
+    <button>Submit</button>
+    
+    <table border="10" width="200">
+        <tr>
+            <td>Month</td>
+            <td>Saving</td>
+        </tr>
+        <tr>
+            <td>Jan</td>
+            <td>2000$</td>
+        </tr>
+        <tr>
+            <td>Feb</td>
+            <td>0$</td>
+        </tr>
+        <tr>
+            <td>March</td>
+            <td>Pha San</td>
+        </tr>
+        <ol>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+            <li>Coke</li>
+        </ol>
+         <ul>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+            <li>Coke</li>
+        </ul>
+        
+    </table>
+</body>
+</html
